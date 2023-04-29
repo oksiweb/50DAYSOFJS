@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsbn": "^1.1.0"
   }
 }
